@@ -1,0 +1,3 @@
+[submodule "treyno/themes/hugo-bearcub"]
+	path = treyno/themes/hugo-bearcub
+	url = https://github.com/clente/hugo-bearcub
