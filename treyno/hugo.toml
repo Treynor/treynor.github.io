@@ -1,5 +1,0 @@
-baseURL = 'https://treynor.github.io/'
-languageCode = 'en-us'
-title = 'treyno.com'
-paginate = '5'
-theme = 'hugo-bearcub'
